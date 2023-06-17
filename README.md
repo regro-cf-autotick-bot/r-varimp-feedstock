@@ -1,11 +1,11 @@
-About r-varimp
-==============
+About r-varimp-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-varimp-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=varImp
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-varimp-feedstock/blob/main/LICENSE.txt)
 
 Summary: Computes the random forest variable importance (VIMP) for the conditional inference random forest (cforest) of the 'party' package. Includes a function (varImp) that computes the VIMP for arbitrary measures from the 'measures' package. For calculating the VIMP regarding the measures accuracy and AUC two extra functions exist (varImpACC and varImpAUC).
 
